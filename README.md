@@ -1,4 +1,5 @@
-Multichannel spatialization algorithm for Supercollider based on sinusoidal amplitude panning tecnique.
+Original Multichannel spatialization algorithm for Supercollider developed through mathematical analysis of sinusoidal amplitude panning tecnique. 
+Research project. Master Degree Music Technology.
 
 
 
